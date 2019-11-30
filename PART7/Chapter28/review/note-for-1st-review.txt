@@ -1,0 +1,66 @@
+[x]为初稿有待改进的翻译内容，已经在翻译文本中标出。中文是现在的翻译方法，请提供改进意见。
+
+[1] scattering and absorbing media  交互和吸收介质 
+
+[2] arbitrary media 任意的介质
+
+[3] volume transmittance 体积透射率
+
+[4] When light passes through a volume along a ray 当光沿着射线穿过一个体积
+
+[5] extinction coefficient 消光系数
+
+[6] ”它的“是否应该改为“这个体积的”
+
+[7]This term is prominently featured in the integral equations governing light
+transport. 意思应该是这个积分方程在光传输领域有主导地位，感觉现在翻译的不太通顺
+
+[8] the radiance scattered in along a ray for distance s. 问题： "distance s"表示的是ray的distance是s还是沿着ray散射了distance s
+
+[9] in-scattered radiance
+
+[10] inversion method  反演方法
+
+[11 ] the inverse might not be available 它的倒数可能不存在
+
+[12] infinite environment dome 无限环境穹顶
+
+[13] procedural gradient 程序梯度纹理
+
+[14] constant albedo 常数反照率
+
+[15] rendering kernel 渲染内核
+
+[16]. To determine the entry point to the medium, we need an intersection routine, and to
+determine when a ray leaves the medium, we need a test for inclusion.
+不确定intersection routine和inclusion.
+
+[17] a piecewise constant Menger sponge and a smooth falloff along a spiral
+一个分段恒定的Menger sponge(?) 和一个平滑的螺旋状的下降
+
+[18]procedural volume functions程序体函数
+
+[19]volume interactions 体积相互作用
+
+[20]until the distance is covered 直到距离被覆盖 或者 直到此路径达到了采样距离
+
+
+第一次review意见:
+
+[1] scattering and absorbing media  吸收散射性介质
+
+[9] in-scattered radiance  向内散射辐射率
+
+[10] inversion method  逆变换方法 《全局光照技术》
+
+[13] procedural gradient 程序化梯度纹理
+
+[14] constant albedo 常数反射率
+理由：来自Unity翻译
+
+[17]Menger sponge: 门格海绵   分形的一种  即28-2图中，左侧的图形
+https://baike.baidu.com/item/%E9%97%A8%E6%A0%BC%E6%B5%B7%E7%BB%B5/9005082?fr=aladdin
+
+[20]until the distance is covered 直到此路径达到了采样距离
+
+
