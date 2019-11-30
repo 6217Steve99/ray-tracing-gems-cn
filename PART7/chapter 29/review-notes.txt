@@ -1,0 +1,10 @@
+@note为第一次review后仍然不确定的术语
+
+@note1 次像素空间(subpixel footprints)
+@note2 重新在代理上采样，比如纹理切片(resampling onto a proxy such as texture slices)
+@note3 广告牌分割(billboard splatting)所有的billboard目前翻译为广告牌
+@note4 We therefore use an approach that coherently traverses and intersects subregions of the volume in as few traversals as possible
+@note5 光栅化分割(rasterization splatting) 所有的splatting目前翻译为分割
+@note6 slab 长条 所有的slab目前翻译为长条
+
+本章正在使用google doc进行review合作,地址https://docs.google.com/document/d/1BORAVNs6Gqn_RbSBze9Pv9l5CHG4l3YcvN-fT18l3AM/edit
